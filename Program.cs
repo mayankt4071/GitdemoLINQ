@@ -13,7 +13,7 @@ namespace LINQ
 
         public string Gender { get; set; }
         public int age { get; set; }
-        public int sal { get; set;}
+       
 
 
         public Student(int Rolno, string Name, string city, string Gender,int age)
