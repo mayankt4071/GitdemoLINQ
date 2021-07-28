@@ -7,7 +7,7 @@ namespace LINQ
 
     class Student
     {
-        public int Rolno { get; set; }
+        public int Rolno;
         public string Name { get; set; }
         public string city { get; set; }
 
