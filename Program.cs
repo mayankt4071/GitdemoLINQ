@@ -62,6 +62,7 @@ namespace LINQ
             int[] marks = { 90, 80, 70, 99, 78 };
             Console.WriteLine("Minimum marks:{0}", marks.Min());
             Console.WriteLine("Maximum marks:{0}", marks.Max());
+            // nothing here
 
             
             //marks btw 70 to 100
